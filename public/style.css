@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    background-image: url("bg-stars.jpg");
+}
+h1 {
+    color: black;
+}
+p {
+    color: black;
+}
+ul {
+    padding: 20px;
+    list-style-type: none;
+    font-family: "Arial";
+    border-radius: 3px;
+    background-color: white;
+}
